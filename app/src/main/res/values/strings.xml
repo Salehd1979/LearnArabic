@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">1</string>
+    <string name="version_number">النسخة  رقم</string>
+    <string name="support_us">ادعمنا بالتبرع لعنوان البيتكوين التالي</string>
+    <string name="bitcoin_address">1BNxn4TDeY48D5PyPQYmArX5uD25EZJpsa</string>
+
+    <string name="أ">أ</string>
+	<string name="ب">ب</string>
+	<string name="ت">ت</string>
+
+    <string name="app_name">اللغة العربية</string>
+	<string name="about">عن التطبيق</string>
+	<string name="letters">الأحرف</string>
+	<string name="numbers">الأرقام</string>
+	
+</resources>
